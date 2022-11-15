@@ -1,1 +1,1 @@
-Print ("I am learning Git course")
+print ("I am learning Git course")
