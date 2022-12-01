@@ -9,3 +9,6 @@ d = a-b
 
 #perform multiplication
 e=a*b
+
+#perform division of a and b
+f = a/b
